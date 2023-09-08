@@ -17,7 +17,7 @@ Welcome to the Fashion Website Template repository! This repository contains cod
 
 This fashion website template is designed to showcase clothing collections, best sellers, fresh releases, and fashion news. It includes responsive navigation, product listings, and a contact form. The template is built using HTML and CSS.
 
-![Website Screenshot](screenshot.png)
+
 
 ## Features
 
